@@ -1,6 +1,7 @@
 # "Fine tuning" google's yamnet network to detect train sounds 
 
 Accompanies the blog post here: 
+http://labs.laan.com/blog/building-a-train-horn-detection-neural-network.html
 
 This was a weekend project to track / quantify the train in my neighborhood that honks a lot. 
 I eventually plan to correlate with my sleep patterns, but that's another day. 
