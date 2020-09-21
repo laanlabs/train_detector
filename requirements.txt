@@ -1,6 +1,6 @@
-tensorflow
-matplotlib
-numpy
-librosa
-soundfile
-resampy
+tensorflow==2.0.0
+matplotlib==3.1.2
+numpy==1.18.1
+librosa==0.7.1
+SoundFile==0.10.3.post1
+resampy==0.2.2
